@@ -30,7 +30,6 @@ namespace NOTE
 
         private void pictureBox1_MouseDown(object sender, MouseEventArgs e)
         {
-            MessageBox.Show("this is a test");
             myDrawBox.mourseDown(e);
         }
 
